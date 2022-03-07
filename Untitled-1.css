@@ -1,0 +1,117 @@
+body{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(201, 153, 22);
+    direction: rtl;
+
+
+}
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+
+
+
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+
+
+
+}
+header{
+    background: rgb(18, 19, 18);
+    color: rgb(150, 125, 125);
+    padding: 30px;
+    min-height: 70px;
+    border-bottom: #141414 5px solid;
+}
+header a{
+    color: rgb(54, 163, 206);
+    text-decoration: none;
+    font-size: 19px;
+
+
+}
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+
+}
+header #brand{
+    float: right;
+
+
+
+    
+}
+header #brand h1{
+    margin: 0;
+    color: blue;
+
+
+}
+header nav{
+    float: left;
+    margin-top: 10px;
+
+
+
+}
+header .current{
+    color: blueviolet;
+    font-weight:bold ;
+
+
+}
+header a:hover{
+
+    color:rgb(245, 11, 11);
+    font-weight: bold;
+}
+#showcase{
+
+
+    min-height: 400px;
+    background: url();
+}
+#boxes{
+    padding: 15px;
+    color: rgb(139, 139, 116);
+    background: #353535;
+
+
+
+}
+#newsletter form
+{
+float: left;
+ margin-top:  15px ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
